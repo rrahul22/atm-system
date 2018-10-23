@@ -1,0 +1,7 @@
+C:\Users\ADMIN\source\repos\RepliconSkillTest\RepliconSkillTest\bin\Debug\RepliconSkillTest.exe.config
+C:\Users\ADMIN\source\repos\RepliconSkillTest\RepliconSkillTest\bin\Debug\RepliconSkillTest.exe
+C:\Users\ADMIN\source\repos\RepliconSkillTest\RepliconSkillTest\bin\Debug\RepliconSkillTest.pdb
+C:\Users\ADMIN\source\repos\RepliconSkillTest\RepliconSkillTest\obj\Debug\ATMSystem.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\RepliconSkillTest\RepliconSkillTest\obj\Debug\RepliconSkillTest.exe
+C:\Users\ADMIN\source\repos\RepliconSkillTest\RepliconSkillTest\obj\Debug\RepliconSkillTest.pdb
+C:\Users\ADMIN\source\repos\RepliconSkillTest\RepliconSkillTest\obj\Debug\ATMSystem.csprojAssemblyReference.cache
